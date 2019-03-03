@@ -1,7 +1,10 @@
 # Inshackle v1.0
+## Inshackle v1.0 github.com/xd20111/inshackle
+## IG : instagram.com/xd_20111
+## Website: www.yourhacker.tk
 ## Author: github.com/thelinuxchoice/inshackle
-## IG: instagram.com/linux_choice
-### Don't copy this code without give me the credits, nerd! Please read the License 
+## Author IG: instagram.com/linux_choice
+### if you want to copy this code Please give Author credits {i mean dont forget Author credit}, nerd! Please read the License 
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
@@ -20,9 +23,4 @@ cd inshackle
 bash inshackle.sh
 ```
 
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+### Happy Hacking #xd20111
